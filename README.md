@@ -9,4 +9,5 @@ Aplikasi yang kelompok saya buat sebagai UAS mata kuliah PBO2 di STMIK Komputama
 5. Ristianingsih (Narator)
 6. Amarulloh Miftahul Khoeri (Programmer)
 
-!
+**Tautan Aplikasi**
+https://drive.google.com/file/d/1qZzyE8x4F2E3R9ec7nNs8xNFYHtlHs8o/view?usp=sharing
