@@ -11,3 +11,6 @@ Aplikasi yang kelompok saya buat sebagai UAS mata kuliah PBO2 di STMIK Komputama
 
 **Tautan Aplikasi**
 https://drive.google.com/file/d/1qZzyE8x4F2E3R9ec7nNs8xNFYHtlHs8o/view?usp=sharing
+
+## Tampilan Aplikasi*
+![Halaman Utama](https://drive.google.com/file/d/1Fglk0Mxughs0RDz5f-WuldyPfcjpAy1B/view?usp=sharing)
