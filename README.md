@@ -14,4 +14,5 @@ https://drive.google.com/file/d/1qZzyE8x4F2E3R9ec7nNs8xNFYHtlHs8o/view?usp=shari
 
 ## Kontribusi
  **Logo Aplikasi** oleh **Anastasia Kreker**
+ 
 ![Logo](https://cdn.icon-icons.com/icons2/1362/PNG/512/artboard-17_89025.png)
