@@ -12,4 +12,4 @@ Aplikasi yang kelompok saya buat sebagai UAS mata kuliah PBO2 di STMIK Komputama
 **Tautan Aplikasi**
 https://drive.google.com/file/d/1qZzyE8x4F2E3R9ec7nNs8xNFYHtlHs8o/view?usp=sharing
 
-![Logo](https://drive.google.com/file/d/1Fglk0Mxughs0RDz5f-WuldyPfcjpAy1B/view?usp=sharing)
+![Logo](https://cdn.icon-icons.com/icons2/1362/PNG/512/artboard-17_89025.png) oleh Anastasia Kreker
