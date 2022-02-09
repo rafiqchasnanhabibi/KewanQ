@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hewan">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/kewan"
+        android:label="KewanQ"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Hewan">
+        <activity
+            android:name=".RangkumanUnggas"
+            android:exported="false" />
+        <activity
+            android:name=".Kenari"
+            android:exported="false" />
+        <activity
+            android:name=".Elang"
+            android:exported="false" />
+        <activity
+            android:name=".Bebek"
+            android:exported="false" />
+        <activity
+            android:name=".Ayam"
+            android:exported="false" />
+        <activity
+            android:name=".Angsa"
+            android:exported="false" />
+        <activity
+            android:name=".RangkumanMamalia"
+            android:exported="false"
+            android:label="@string/title_activity_rangkuman_mamalia"
+            android:theme="@style/Theme.Hewan.NoActionBar" />
+        <activity
+            android:name=".Singa"
+            android:exported="false" />
+        <activity
+            android:name=".Sapi"
+            android:exported="false"
+            android:label="@string/title_activity_sapi"
+            android:theme="@style/Theme.Hewan.NoActionBar" />
+        <activity
+            android:name=".Lumba"
+            android:exported="false" />
+        <activity
+            android:name=".RangkumanSerangga"
+            android:exported="false" />
+        <activity
+            android:name=".Tawon"
+            android:exported="false" />
+        <activity
+            android:name=".Nyamuk"
+            android:exported="false" />
+        <activity
+            android:name=".Lebah"
+            android:exported="false" />
+        <activity
+            android:name=".Kepik"
+            android:exported="false"
+            android:label="@string/title_activity_kepik"
+            android:theme="@style/Theme.Hewan.NoActionBar" />
+        <activity
+            android:name=".Kambing"
+            android:exported="false"
+            android:label="@string/title_activity_kambing"
+            android:theme="@style/Theme.Hewan.NoActionBar" />
+        <activity
+            android:name=".Gajah"
+            android:exported="false"
+            android:label="@string/title_activity_gajah"
+            android:theme="@style/Theme.Hewan.NoActionBar" />
+        <activity
+            android:name=".Jangkrik"
+            android:exported="false" />
+        <activity
+            android:name=".SubMenu"
+            android:exported="false" />
+        <activity
+            android:name=".MenuUtama"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

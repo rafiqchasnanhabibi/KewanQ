@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/drawable/background_menu.xml" value="0.2942708333333333" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_angsa.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_ayam.xml" value="0.21965579710144928" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_bebek.xml" value="0.2640625" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_elang.xml" value="0.278125" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_gajah.xml" value="0.25" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_jangkrik.xml" value="0.25" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_kambing.xml" value="0.25" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_kenari.xml" value="0.2640625" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_kepik.xml" value="0.278125" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_lebah.xml" value="0.278125" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_lumba.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_menu_utama.xml" value="0.26721014492753625" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_nyamuk.xml" value="0.2640625" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_rangkuman_mamalia.xml" value="0.33" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_rangkuman_serangga.xml" value="0.25" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_rangkuman_unggas.xml" value="0.278125" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_sapi.xml" value="0.223731884057971" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_singa.xml" value="0.223731884057971" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_sub_menu.xml" value="0.22" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/activity_tawon.xml" value="0.2640625" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/content_gajah.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/content_kambing.xml" value="0.2509057971014493" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/fragment_first.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/rafiqchasnanhabibi/AndroidStudioProjects/Hewan/app/src/main/res/layout/kontribusi.xml" value="0.20697463768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
